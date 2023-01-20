@@ -1,4 +1,4 @@
 # Curriculum
 
 ## link da pagina
-https://Bscanto.github.io/Pagina.html/
+file:///C:/Users/bruno/Desktop/Pagina.html
